@@ -1,0 +1,5 @@
+<Motor>
+	<Name>"UniqueMotor1"</Name>
+	<MaxSpeed>16</MaxSpeed>
+	<MaxCurrent>12</MaxCurrent>
+</Motor>

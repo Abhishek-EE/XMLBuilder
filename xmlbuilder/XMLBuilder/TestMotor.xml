@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<System>
+  
+  <TestMotor>
+    <Name>UniqueMotor</Name>
+    <MaxSpeed>16</MaxSpeed>
+    <MaxCurrent>12</MaxCurrent>
+  </TestMotor>
+
+  <Robot>
+    <Name>UniqueMotor</Name>
+    <MaxSpeed>13</MaxSpeed>
+    <MaxCurrent>10</MaxCurrent>
+  </Robot>
+
+  <TestMotor>
+    <Name>UniqueMotor3</Name>
+    <MaxSpeed>14</MaxSpeed>
+    <MaxCurrent>11</MaxCurrent>
+  </TestMotor>
+  
+</System>
